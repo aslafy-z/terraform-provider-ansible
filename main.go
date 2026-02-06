@@ -33,7 +33,7 @@ func main() {
 
 	var serveOpts []tf5server.ServeOpt
 
-	err = tf5server.Serve("registry.terraform.io/ansible/ansible", muxServer.ProviderServer, serveOpts...)
+	err = tf5server.Serve("registry.terraform.io/zadkiel/ansible", muxServer.ProviderServer, serveOpts...)
 	if err != nil {
 		log.Fatal(err)
 	}

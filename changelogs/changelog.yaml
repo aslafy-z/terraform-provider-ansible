@@ -34,3 +34,5 @@ releases:
     - quote-extra-vars.yml
     - update_dependencies.yml
     release_date: '2024-05-07'
+  1.4.0:
+    release_date: '2026-02-06'

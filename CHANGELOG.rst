@@ -4,6 +4,9 @@ The Terraform Provider for Ansible Release Notes
 
 .. contents:: Topics
 
+v1.4.0
+======
+
 v1.3.0
 ======
 
