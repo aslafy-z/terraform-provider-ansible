@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     ansible = {
-      source  = "zadkiel/ansible"
+      source  = "aslafy-z/ansible"
       version = "~> 1.1.0"
     }
     docker = {
